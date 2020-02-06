@@ -2,8 +2,4 @@ hi Today is cold
 count the total number of HuBei WuHan person
 Count the total number of chishi
 
-<<<<<<< HEAD
-zhen de hao rongyi
-=======
 zhen de bu rongyi
->>>>>>> 284bb5997bfd9a033911da49b0a8a537301604f9
